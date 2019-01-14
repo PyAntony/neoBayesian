@@ -4,13 +4,13 @@ This package contains 4 main Bayesian models and multiple routines to facilitate
 
 ## Contents
 
-### 1) Tools package:
+### 1) NeoBayesian - Tools package:
 
 - **variance:** module contains 2 functions to compute variance (within group variance and between group variance) using the *conditional variance formula* and the direct method.
 - **others:** module contains 2 functions. 1 to calculate the probability of an event by computing all possible outcomes and 1 to calculate the Positive Predictive Value and Negative Predictive Value of a test.
 - **routines:** 3 functions to apply the Bayesian algorithm. 
 
-### 2) Models package:
+### 2) NeoBayesian - Models package:
 
 - **discrete:** basic discrete models with “pdf” and “cdf” modes.
 - **naive:** module to apply naive Bayes to a data set as a CSV file.
@@ -19,6 +19,10 @@ This package contains 4 main Bayesian models and multiple routines to facilitate
   * Gamma-Poisson model
   * Normal-inverse-gamma model
   * Normal-normal model
+  
+  ### 2) Notebooks:
+  
+  Jupyter Notebooks with multiple examples. 
 
 
 
