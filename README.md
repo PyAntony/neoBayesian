@@ -15,10 +15,10 @@ This package contains 4 main Bayesian models and multiple routines to facilitate
 - **discrete:** basic discrete models with “pdf” and “cdf” modes.
 - **naive:** module to apply naive Bayes to a data set as a CSV file.
 - **continuous:** package contains 4 main continuous Bayesian models with functions to estimate initial and posterior parameters. Models include:
-* Beta-binomial model
-* Gamma-Poisson model
-* Normal-inverse-gamma model
-* Normal-normal model
+  * Beta-binomial model
+  * Gamma-Poisson model
+  * Normal-inverse-gamma model
+  * Normal-normal model
 
 
 
