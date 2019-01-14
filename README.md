@@ -20,7 +20,7 @@ This package contains 4 main Bayesian models and multiple routines to facilitate
   * Normal-inverse-gamma model
   * Normal-normal model
   
-### 2) Notebooks:
+### 3) Notebooks:
 
 Jupyter Notebooks with multiple examples. 
 
