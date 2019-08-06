@@ -22,7 +22,7 @@ This package contains 4 main Bayesian models and multiple routines to facilitate
   
 ### 3) Notebooks:
 
-Jupyter Notebooks with multiple examples. 
+Jupyter Notebooks with multiple usage examples. 
 
 
 
